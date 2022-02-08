@@ -1,1 +1,6 @@
+ gcc -g p3original.c 
+ ./a.out
+enter your number
+8
+the number is composite
 
